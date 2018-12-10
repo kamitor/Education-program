@@ -15,7 +15,7 @@ These are the building blocks of the internet. You must master them in order to 
 - Api/Json
 - ES 2015
 - Deploying Website (Digital Ocean)
-- Website deployment automation (travis)
+- Website deployment automation (travis + github) 
 - Learn basics of Cpanel
 - Learn about Proxy's and VPN's (Setup your own)
 - Uploading websites via FTP
@@ -51,6 +51,28 @@ Must know:
 - !!Very important; Responsive layouts
 - Grids
 - Paramiters
+
+Start with: 
+https://www.youtube.com/watch?v=yfoY53QXEnI&t=2s
+
+
+https://www.youtube.com/watch?v=Wm6CUkswsNw
+
+# Github
+
+Learn about git here:
+https://www.youtube.com/watch?time_continue=306&v=6iPGI-H1Xqc
+Download git here:
+
+# Tools to use
+- Visual Studio Code 
+    - Exentions: Visual studio live code, DOTENV, Composer, Git Kraken - Glo, Rainbox csv, phpcs, python, npm intellisense, ninjucks, phpdebug, php docblocker, debugger for chrome, Vetur, Twig language 2, flowmapp
+- PHP STORM
+- Webservers: Apache / Ningx
+- Composer
+- DRUPAL
+- NPM / NPX
+- Git Kraken
 
 
 

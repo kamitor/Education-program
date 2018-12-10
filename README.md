@@ -4,7 +4,7 @@ Conscious Competence.
 
 Learn more about Conscious Competence here:  https://en.wikipedia.org/wiki/Four_stages_of_competence
 
-#FRONTDEV 
+# FRONTDEV 
 
 These are the building blocks of the internet. You must master them in order to proceed. (DO NOT PROCEED WITHOUT MASTERY*)
 - HTML
@@ -24,7 +24,7 @@ These are the building blocks of the internet. You must master them in order to 
 - PSD / AI -> HTML/CSS
 - Drupal + Symfony (4.0 +)
 
-#FULLSTACK
+# FULLSTACK
 - PHP
 - NODEJS
 - VUE.js
@@ -34,17 +34,18 @@ These are the building blocks of the internet. You must master them in order to 
 - Ruby
 - Python
 
-#DIE HARD
+# DIE HARD
 - Rust
 - Go
 - LUA
 
-#HTML
+# HTML
 Must know:
 - Divs
 - Images
 
-#CSS
+# CSS
+
 Must know:
 - Flexboxes
 - !!Very important; Responsive layouts
@@ -53,19 +54,19 @@ Must know:
 
 
 
-#Basic Javascript
+# Basic Javascript
 - 
 
 
 
-#What is Mastery
+# What is Mastery
 you should be able to understand and apply several concepts without using a computer. You must be able to pass the WC3 Schools with 90+%. You must be able to show the teacher that you have a good understanding. You apply good coding practises.
 
-#Good Coding practises
+# Good Coding practises
 - Programs and Websites that you build have a clear definition and purpose. You have listed these in the comments.
 - It conforms to all normal conding standards. Also Coding conventions.
 
-#Coding conventions
+# Coding conventions
 How to write good comments; https://en.wikipedia.org/wiki/Comment_(computer_programming)
 Naming conventions: https://en.wikipedia.org/wiki/Naming_convention_(programming)
 Programming conventions: https://en.wikipedia.org/wiki/Programming_style

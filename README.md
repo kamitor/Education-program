@@ -43,6 +43,18 @@ These are the building blocks of the internet. You must master them in order to 
 Must know:
 - Divs
 - Images
+- Elements
+- Attributes
+- Headings
+- color
+- links
+- Tables
+- blocks
+- Classes
+- id
+- Iframes
+- comments
+- absolute paths
 
 # CSS
 

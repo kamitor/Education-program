@@ -55,6 +55,13 @@ Must know:
 - Iframes
 - comments
 - absolute paths
+Start your learning path here > https://www.w3schools.com/html/default.asp <> 
+
+Here are some usefull tutorials to learn about HTML
+https://www.youtube.com/watch?v=UB1O30fR-EE
+
+We expect you to be able to make a site like this youtube movie within 1 hour. 
+
 
 # CSS
 
@@ -67,6 +74,8 @@ Must know:
 Start with: 
 https://www.youtube.com/watch?v=yfoY53QXEnI&t=2s
 
+Then learn about grids here:
+
 
 https://www.youtube.com/watch?v=Wm6CUkswsNw
 
@@ -75,11 +84,15 @@ https://www.youtube.com/watch?v=Wm6CUkswsNw
 Learn about git here:
 https://www.youtube.com/watch?time_continue=306&v=6iPGI-H1Xqc
 Download git here:
+https://desktop.github.com/
+Download the github education package here:
+https://education.github.com/
 
 # Tools to use
 - Visual Studio Code 
     - Exentions: Visual studio live code, DOTENV, Composer, Git Kraken - Glo, Rainbox csv, phpcs, python, npm intellisense, ninjucks, phpdebug, php docblocker, debugger for chrome, Vetur, Twig language 2, flowmapp
 - PHP STORM
+- Sublime
 - Webservers: Apache / Ningx
 - Composer
 - DRUPAL
@@ -90,6 +103,10 @@ Download git here:
 
 # Basic Javascript
 - 
+Start your learning path here:
+https://www.w3schools.com/js/default.asp
+
+Then learn this: 
 
 
 

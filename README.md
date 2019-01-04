@@ -76,7 +76,6 @@ https://www.youtube.com/watch?v=yfoY53QXEnI&t=2s
 
 Then learn about grids here:
 
-
 https://www.youtube.com/watch?v=Wm6CUkswsNw
 
 # Github
@@ -87,6 +86,8 @@ Download git here:
 https://desktop.github.com/
 Download the github education package here:
 https://education.github.com/
+
+Ask meester to deploy your first website with you!!
 
 # Tools to use
 - Visual Studio Code 
@@ -106,7 +107,40 @@ https://education.github.com/
 Start your learning path here:
 https://www.w3schools.com/js/default.asp
 
-Then learn this: 
+Video Material:
+
+ES2015: 
+https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
+
+Travestry Media Javascript tutorials:
+https://www.youtube.com/watch?v=vEROU2XtPR8&t=672s
+FreeCode Beginners:
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+Scope: Differences between EC 2015 and others. 
+https://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
+
+
+Pick a Project: 
+
+Build Rock and paper game:
+https://www.youtube.com/watch?v=qipq1BV5myU
+
+Build Temperature controller:
+https://www.youtube.com/watch?v=8mRGfLL1nzE
+
+NODE JS:
+https://www.hackster.io/IainIsCreative/javascript-with-hardware-part-one-making-a-simple-nodebot-d1a75d
+
+Your first app:
+https://www.futurelearn.com/courses/begin-programming/11/steps/426079
+
+Iot: 
+Espruino Web IDE
+https://www.espruino.com/
+
+AJAX:
+https://www.youtube.com/watch?v=tNKD0kfel6o
 
 
 
@@ -124,3 +158,12 @@ Programming conventions: https://en.wikipedia.org/wiki/Programming_style
 
 Please note that you can choose several; Choose one and stick to it.
 There is no wrong answer to which one you pick as long as you stay consistent.
+
+
+# Freelancing
+
+FU you Money
+https://www.youtube.com/watch?v=uulIsjar8jo
+
+# Talking
+

@@ -100,6 +100,22 @@ Ask meester to deploy your first website with you!!
 - NPM / NPX
 - Git Kraken
 
+# PHP Frameworks
+
+Drupal - is good; but after talking with some developers maybe its better to go for:
+
+Laravell
+
+Laravell is a open source framework for programming websites. 
+Instead of using NPM for for your packaging manager they use compose.
+
+https://laravel.com/
+
+WAMP manager (HIGHLY RECOMMENDED):
+https://laragon.org/
+
+Video's;
+https://laracasts.com/series/laravel-from-scratch-2018
 
 
 # Basic Javascript
@@ -141,6 +157,14 @@ https://www.espruino.com/
 
 AJAX:
 https://www.youtube.com/watch?v=tNKD0kfel6o
+
+Things you should know :
+
+- Loops
+- Arrays
+- Objects
+- NPM Package manager
+
 
 
 

@@ -24,6 +24,13 @@ These are the building blocks of the internet. You must master them in order to 
 - PSD / AI -> HTML/CSS
 - Drupal + Symfony (4.0 +)
 
+# Models
+
+- Agile Scrum
+- Prince 2
+- Model view controller https://blog.codinghorror.com/understanding-model-view-controller/
+
+
 # FULLSTACK
 - PHP
 - NODEJS

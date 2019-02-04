@@ -9,7 +9,7 @@ Learn more about Conscious Competence here:  https://en.wikipedia.org/wiki/Four_
 These are the building blocks of the internet. You must master them in order to proceed. (DO NOT PROCEED WITHOUT MASTERY*)
 - HTML
 - CSS: 
-- Basic Javascript
+- Basic Javascript (We learn this trough a cool little libary called p5js)
 - Dom manipulation
 - Ajax / Fetch 
 - Api/Json
@@ -137,11 +137,20 @@ https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7h
 
 Travestry Media Javascript tutorials:
 https://www.youtube.com/watch?v=vEROU2XtPR8&t=672s
+
 FreeCode Beginners:
 https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 Scope: Differences between EC 2015 and others. 
 https://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
+
+# React
+
+Install React:
+https://www.youtube.com/watch?v=v3cJwBh5e10
+
+Learn about React and start programming:
+https://www.youtube.com/watch?v=v3cJwBh5e10
 
 
 Pick a Project: 

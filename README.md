@@ -146,8 +146,11 @@ https://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
 
 # React
 
+install Java:
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 Install React:
-https://www.youtube.com/watch?v=v3cJwBh5e10
+https://www.youtube.com/watch?v=KRLLjlpy0r4
 
 Learn about React and start programming:
 https://www.youtube.com/watch?v=v3cJwBh5e10

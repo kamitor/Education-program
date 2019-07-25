@@ -202,6 +202,9 @@ Programming conventions: https://en.wikipedia.org/wiki/Programming_style
 Please note that you can choose several; Choose one and stick to it.
 There is no wrong answer to which one you pick as long as you stay consistent.
 
+# DevOps
+Stuff to read
+https://opensource.com/article/19/7/cicd-pipeline-rule-them-all?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000001ORp8AAG
 
 # Freelancing
 

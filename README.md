@@ -12,6 +12,7 @@ These are the building blocks of the internet. You must master them in order to 
 - Basic Javascript (We learn this trough a cool little libary called p5js)
 - Dom manipulation
 - Ajax / Fetch 
+- YAML
 - Api/Json
 - ES 2015
 - Deploying Website (Digital Ocean)
@@ -211,5 +212,7 @@ https://opensource.com/article/19/7/cicd-pipeline-rule-them-all?utm_medium=Email
 FU you Money
 https://www.youtube.com/watch?v=uulIsjar8jo
 
-# Talking
+# Talking / Podcasts
+
+Command line heroes: https://www.redhat.com/en/command-line-heroes/season-1
 
